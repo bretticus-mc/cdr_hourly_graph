@@ -1,2 +1,3 @@
 # cdr_hourly_graph
-Parses CDR recrords from CUCM and creates a graph displaying call volume per hour
+Parses Call Detail Records(CDR) from Cisco Unified Communications Manager and displays a horizontal barchart displaying call volume per hour
+
